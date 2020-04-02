@@ -2,6 +2,8 @@
 
 ![alt text](covid.png "Covid-19 Deaths by County")
 
+(View the complete notebook [here](https://nbviewer.jupyter.org/github/tjbanks/udacity_covid/blob/master/Covid_Udacity.ipynb))
+
 In this project we'll be looking at how the following factors may play into the number of deaths related to Covid-19.
 
 * HIV-AIDS & tuberculosis
@@ -25,6 +27,42 @@ In this project we'll be looking at how the following factors may play into the 
 * Unintentional injuries
 * Self-harm and interpersonal violence
 * Forces of nature, war, and legal intervention
+
+## Analysis 
+
+We used several methods to evaluate the datasets and compare mortality rates to COVID-19 deaths. 
+* Choropleths
+* Descriptive analysis and percentiles
+* Correlation heatmaps
+* Linear Regression for predicting deaths
+
+## Results
+
+At this point there is little correlation between mortality rates in a particular location and the number of COVID-19 deaths. This may change as death rates increase.
+
+## Libraries Used
+
+* Jupyter
+* numpy
+* pandas
+* matplotlib
+* sklearn
+* seaborn
+* plotly
+
+## Description of Files
+
+`Covid_Udacity.ipynb` - Main jupyter notebook
+
+`us-counties.csv` - Covid-19 cases and deaths by county dataset
+
+`mort.csv` - Mortality rates for 2014 dataset 
+
+`co-est2019-alldata-1.csv` - unused population estimates dataset
+
+`geojson-counties-fips.json` - used for plotting counties on a map in the ipynb
+
+`*.png` - various visuals
 
 ## Acknowledgements
 
