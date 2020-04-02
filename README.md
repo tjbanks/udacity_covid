@@ -29,3 +29,4 @@ In this project we'll be looking at how the following factors may play into the 
 Datasets were collected from
 https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
 https://www.kaggle.com/IHME/us-countylevel-mortality/data
+https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/
