@@ -1,5 +1,7 @@
 # What (possible) health factors play into Covid-19 deaths?
 
+![alt text](covid.png "Covid-19 Deaths by County")
+
 In this project we'll be looking at how the following factors may play into the number of deaths related to Covid-19.
 
 * HIV-AIDS & tuberculosis
